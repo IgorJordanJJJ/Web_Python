@@ -30,6 +30,7 @@ eggs/
 .eggs/
 lib/
 lib64/
+Script/
 parts/
 sdist/
 var/
@@ -109,6 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 envpjweb/
+envpjweb
 
 # Spyder project settings
 .spyderproject
